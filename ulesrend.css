@@ -1,0 +1,40 @@
+  table {
+    width: 100%;
+  }
+  
+  td, th {
+    text-align: center;
+    font-style: bold;
+    border:none;
+  }
+  #piros{
+      background-color: #ff7777;
+  }
+  #zold{
+      background-color: #66dd66;
+  }
+  #kek{
+      background-color: #00baff;
+  }
+  #barna{
+      background-color: #987654;
+  }
+  #sarga{
+      background-color: #ffdd54;
+  }
+  #erdekeskek{
+      background-color: #4d98bd;
+  }
+  #pink{
+      background-color: #fbadff;
+  }
+  #lazac{
+    background-color: #FF9C7A;
+  }
+  #behuz{
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+  
